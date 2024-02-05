@@ -81,6 +81,7 @@ components:
           x-walrus-ui:
             group: Basic
             order: 2
+            hidden: true
       x-walrus-ui:
         groupOrder:
         - Basic
